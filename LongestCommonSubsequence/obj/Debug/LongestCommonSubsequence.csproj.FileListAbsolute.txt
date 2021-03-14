@@ -1,0 +1,6 @@
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\LongestCommonSubsequence\bin\Debug\LongestCommonSubsequence.exe.config
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\LongestCommonSubsequence\bin\Debug\LongestCommonSubsequence.exe
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\LongestCommonSubsequence\bin\Debug\LongestCommonSubsequence.pdb
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\LongestCommonSubsequence\obj\Debug\LongestCommonSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\LongestCommonSubsequence\obj\Debug\LongestCommonSubsequence.exe
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\LongestCommonSubsequence\obj\Debug\LongestCommonSubsequence.pdb

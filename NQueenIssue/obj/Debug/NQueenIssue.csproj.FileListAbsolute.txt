@@ -1,0 +1,7 @@
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\NQueenIssue\bin\Debug\NQueenIssue.exe.config
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\NQueenIssue\bin\Debug\NQueenIssue.exe
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\NQueenIssue\bin\Debug\NQueenIssue.pdb
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\NQueenIssue\obj\Debug\NQueenIssue.csprojAssemblyReference.cache
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\NQueenIssue\obj\Debug\NQueenIssue.csproj.CoreCompileInputs.cache
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\NQueenIssue\obj\Debug\NQueenIssue.exe
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\NQueenIssue\obj\Debug\NQueenIssue.pdb

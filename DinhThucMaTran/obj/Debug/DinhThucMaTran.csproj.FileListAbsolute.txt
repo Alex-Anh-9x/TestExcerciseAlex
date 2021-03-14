@@ -1,0 +1,6 @@
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\DinhThucMaTran\bin\Debug\DinhThucMaTran.exe.config
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\DinhThucMaTran\bin\Debug\DinhThucMaTran.exe
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\DinhThucMaTran\bin\Debug\DinhThucMaTran.pdb
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\DinhThucMaTran\obj\Debug\DinhThucMaTran.csproj.CoreCompileInputs.cache
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\DinhThucMaTran\obj\Debug\DinhThucMaTran.exe
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\DinhThucMaTran\obj\Debug\DinhThucMaTran.pdb

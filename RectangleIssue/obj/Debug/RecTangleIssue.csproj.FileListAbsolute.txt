@@ -1,0 +1,6 @@
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\RecTangleIssue\bin\Debug\RecTangleIssue.exe.config
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\RecTangleIssue\bin\Debug\RecTangleIssue.exe
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\RecTangleIssue\bin\Debug\RecTangleIssue.pdb
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\RecTangleIssue\obj\Debug\RecTangleIssue.csproj.CoreCompileInputs.cache
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\RecTangleIssue\obj\Debug\RecTangleIssue.exe
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\RecTangleIssue\obj\Debug\RecTangleIssue.pdb

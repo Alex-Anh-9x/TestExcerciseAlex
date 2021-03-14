@@ -1,0 +1,6 @@
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\MatrixMultiply\bin\Debug\MatrixMultiply.exe.config
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\MatrixMultiply\bin\Debug\MatrixMultiply.exe
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\MatrixMultiply\bin\Debug\MatrixMultiply.pdb
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\MatrixMultiply\obj\Debug\MatrixMultiply.csproj.CoreCompileInputs.cache
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\MatrixMultiply\obj\Debug\MatrixMultiply.exe
+C:\Users\Admin9897f1685d\Desktop\Bing Translator\MatrixMultiply\obj\Debug\MatrixMultiply.pdb
